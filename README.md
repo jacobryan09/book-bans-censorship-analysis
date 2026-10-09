@@ -1,4 +1,4 @@
-# Knowledge at Risk
+# Knowledge at Risk (Arizona State University Research Project 2026)
 ### Censorship Challenges, Outcomes, and Patterns Across Media
 
 A collaborative data science research project examining censorship
