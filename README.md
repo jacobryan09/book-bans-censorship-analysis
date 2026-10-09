@@ -142,4 +142,11 @@ supporting the analysis.
 
 ## 📄 Full Research Presentation
 
-➡️ [View Full Research Presentation (PDF)](presentation/KnowledgeAtRisk_Official.pdf)
+[KnowledgeAtRisk_Official.pdf](https://github.com/user-attachments/files/33269829/KnowledgeAtRisk_Official.pdf)
+
+# Video Presentation
+
+https://www.youtube.com/watch?v=O8xi8R2J-ug
+
+
+
