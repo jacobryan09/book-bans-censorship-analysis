@@ -27,9 +27,7 @@ reasons differ across media.
 This section introduces the research problem and explains how
 censorship challenges can lead to restrictions or removal of
 materials from educational institutions and libraries.
-
 <img width="3300" height="2550" alt="slide_01" src="https://github.com/user-attachments/assets/89f95e5e-d386-4819-8893-26ee3553526d" />
-
 <img width="3300" height="2550" alt="slide_02" src="https://github.com/user-attachments/assets/19416054-c8bb-4af4-9654-34d25a02b87b" />
 
 ### Research Datasets
